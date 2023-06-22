@@ -19,7 +19,7 @@ Use following sites to check for any malware for any files you download from onl
 https://virusdesk.kaspersky.com/
 https://www.virustotal.com/
 
-![OnlineScanner](https://raw.githubusercontent.com/krishKM/VBA_TOOLS/master/screenshots/vbatoolsIsSafe.png)
+![OnlineScanner](/screenshots/vbatoolsIsSafe.png)
 
 # Unblock the Dlls if necessary.
 ![UnblockADllPicture](https://raw.githubusercontent.com/krishKM/VBA_TOOLS/master/screenshots/unblockADll1.png)
